@@ -56,5 +56,6 @@ vless://23616470-4782-4da9-8576-affbbcf6ae7b@lk.cloudconsole.ru:443?security=rea
 
 
 vless://2e65df32-9d53-4e4f-a56b-fa6c74ae136d@fin.lumixnet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin.lumixnet.com&pbk=kmAVs3zjBhf0jPZpQqmMp1mIIcMJD6SqEtEMNoKVsFg&fp=chrome&sid=00ba69ab2e6027d9&type=tcp#Игровой(без бравл старса)
-
 vless://bcb5e043-dd15-4d9c-b726-4d4057af48d4@144.31.170.239:8443?security=reality&encryption=none&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#Игровой
+
+trojan://Fr6h3t1gZ6JCgdk8o4F667B1vYFBA5Cq@150.241.66.2:35857?mode=gun&security=reality&pbk=qQb-sQI6jnu1PbBimM7RFDL9sE3mjIM5DHu1SR1hhT8&fp=chrome&spx=%2F&type=grpc&serviceName=123&sni=web.max.ru&sid=c9168cbeb4bee2cc#Нейросети
