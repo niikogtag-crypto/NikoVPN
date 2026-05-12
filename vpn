@@ -8,7 +8,7 @@
 #profile-type: encrypted
 #profile-locked: true
 #hide-settings: 1
-vless://info@0.0.0.0:443?type=tcp&security=none#        ----NIKOVPN----
+vless://info@0.0.0.0:443?type=tcp&security=none#        ----NIKOVPNN----
 vless://info@0.0.0.0:443?type=tcp&security=none#        t.me/HAT0MCBET3
 vless://info@0.0.0.0:443?type=tcp&security=none#───────────────────────────────
 
