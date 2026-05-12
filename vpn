@@ -19,14 +19,9 @@ vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@cdn34.api-rutube.ru:443?security=re
 vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@cdn34.api-rutube.ru:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru#🇷🇺 Глушилки #5
 vless://3249a588-0b96-4209-9601-621c7d827cd0@158.160.218.119:443?security=reality&encryption=none&pbk=u918pQoBaR_OKVik9dhLdqhTWDpyWdh84MjukzFCZio&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c71038697ba6f498#🇷🇺 Глушилки #6
 
-vless://info@0.0.0.0:443?type=tcp&security=none#───────────────────────────────
-
-vless://43dbc0c8-6dc9-4aa2-bbc9-1a531786acf0@150.241.66.2:50455?mode=auto&path=%2F&security=reality&encryption=none&pbk=mQYffVOT9WjeMOt3OidRFhRHnXpPg5B4Det191XOOw0&host=web.max.ru&fp=chrome&spx=%2F&type=xhttp&sni=web.max.ru&sid=46de700d6dd1c5c8#🇺🇸Нейросети (не работает скоро новый сервер)
-
-vless://info@0.0.0.0:443?type=tcp&security=none#───────────────────────────────
-
-vless://2e65df32-9d53-4e4f-a56b-fa6c74ae136d@fin.lumixnet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin.lumixnet.com&pbk=kmAVs3zjBhf0jPZpQqmMp1mIIcMJD6SqEtEMNoKVsFg&fp=chrome&sid=00ba69ab2e6027d9&type=tcp#Игровой
-
-vless://info@0.0.0.0:443?type=tcp&security=none#───────────────────────────────
 
 vless://613e5c93-0e74-4c19-a2df-ad3672423516@84.201.178.58:2083?security=reality&encryption=none&pbk=8f5I_x37Fb51fHweqlohDZn19RwFyymS6XkEDBCn9Sw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=3dfefbaf7319b548#🇬🇧 Великобритания LTE
+
+
+
+vless://2e65df32-9d53-4e4f-a56b-fa6c74ae136d@fin.lumixnet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin.lumixnet.com&pbk=kmAVs3zjBhf0jPZpQqmMp1mIIcMJD6SqEtEMNoKVsFg&fp=chrome&sid=00ba69ab2e6027d9&type=tcp#Игровой
