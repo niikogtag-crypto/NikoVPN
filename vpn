@@ -24,3 +24,5 @@ vless://43dbc0c8-6dc9-4aa2-bbc9-1a531786acf0@150.241.66.2:50455?mode=auto&path=%
 
 
 vless://2e65df32-9d53-4e4f-a56b-fa6c74ae136d@fin.lumixnet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin.lumixnet.com&pbk=kmAVs3zjBhf0jPZpQqmMp1mIIcMJD6SqEtEMNoKVsFg&fp=chrome&sid=00ba69ab2e6027d9&type=tcp#Игровой
+
+vless://3c732b6a-4eea-42cd-9475-cea568562736@188.211.233.106:443?type=tcp&security=reality&encryption=none&pbk=WMU0mGFIbM30xq3Cra5PSUml0SxuGM7U9wilNz1AWHI&fp=chrome&sni=www.tradingview.com&sid=fe98a6c399be6a0a&flow=xtls-rprx-vision#🇪🇺CVEDC%20VPN%20%7C%7C%20WIFI
